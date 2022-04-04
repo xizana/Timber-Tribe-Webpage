@@ -3,7 +3,7 @@ window.addEventListener("load", function(){
         function open(event){
             document.querySelector(".popup").style.display = "block";
         },
-        1250
+        2000
     )
 });
 document.querySelector("#close").addEventListener("click", function(){
